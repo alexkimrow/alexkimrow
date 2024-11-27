@@ -30,10 +30,10 @@
 <h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,r,sklearn,pytorch,tensorflow,opencv,fastapi" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,vscode," /><br>
+    <img src="https://skillicons.dev/icons?i=py,mysql,r,sklearn,pytorch,tensorflow,opencv,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,typescript,bootstrap,html,css,tailwind,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,bootstrap,html,css,tailwind,firebase,graphql" />
     
 </div>
 
