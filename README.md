@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex+Kimyung+Ro!;" />
 </h1>
 
-<h3 align="center">Data Scientist | MS CS @ Georgia Tech specializing in Machine Learning </h3>
+<h3 align="center">MLE | MS CS @ Georgia Tech specializing in Machine Learning </h3>
 
 <br/>
 
@@ -33,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=py,mysql,r,sklearn,pytorch,tensorflow,opencv,fastapi" /><br>
     <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,typescript,bootstrap,html,css,tailwind,firebase,graphql" />
     
 </div>
 
