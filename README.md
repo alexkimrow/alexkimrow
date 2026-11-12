@@ -66,13 +66,13 @@ Building intelligent systems using Machine Learning, Computer Vision, NLP, and C
 
 ---
 
-## 🐍 Contribution Activity
+## 💻 Most Used Languages
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
 
----
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkimrow&layout=compact&theme=tokyonight&langs_count=8" />
+
+</div>
 
 ## 📚 Current Interests
 
