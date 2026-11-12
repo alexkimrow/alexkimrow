@@ -68,11 +68,11 @@ Building intelligent systems using Machine Learning, Computer Vision, NLP, and C
 
 ## 💻 Most Used Languages
 
-<div align="center">
+[<div align="center">
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkimrow&layout=compact&theme=tokyonight&langs_count=8" />
 
-</div>
+</div>](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkimrow&layout=compact)
 
 ## 📚 Current Interests
 
