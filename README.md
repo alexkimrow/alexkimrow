@@ -38,7 +38,7 @@
 
 <br/>
 <hr/>
-<!---
+
 <div align="center">
   <h2>Contributions</h2>
   <br>
@@ -47,6 +47,8 @@
   </div>
 
 <hr/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkimrow&layout=compact&theme=tokyonight)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
